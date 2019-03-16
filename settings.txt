@@ -1,0 +1,2 @@
+cd
+cd .. && cd usr/etc && sed -i '$ a clear ' zshrc && sed -i '$ a cowsay -f eyes "dipsis" ' zshrc && sed -i '$ a figlet -f small dipsis ' zshrc
