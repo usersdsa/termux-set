@@ -1,0 +1,2 @@
+# termux-set
+Setting-termux
